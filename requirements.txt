@@ -1,0 +1,2 @@
+https://github.com/abetlen/llama-cpp-python/releases/download/v0.2.28/llama_cpp_python-0.2.28-cp310-cp310-manylinux_2_17_x86_64.whl
+python-telegram-bot==13.7
