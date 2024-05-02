@@ -20,7 +20,7 @@ def get_system_tokens(model):
 def load_model(
     directory: str = ".",
     model_name: str = "model-q4_K.gguf",
-    model_url: str = "https://huggingface.co/julicq/model-q4_K/blob/main/model-q4_K.gguf"
+    model_url: str = "https://huggingface.co/julicq/model-q4_K/resolve/main/model-q4_K.gguf"
 ):
     final_model_path = os.path.join(directory, model_name)
     
